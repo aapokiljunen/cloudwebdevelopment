@@ -4,7 +4,9 @@ layout: default
 ---
 
 ## Viikko 2
-### Github Actions
+### Automatisointi Jekyll-sivustolle GitHub Actionsilla
+
+Lorem ipsum
 
 
 [Palaa etusivulle](../index.md)

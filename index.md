@@ -10,7 +10,7 @@ layout: default
 - [Viikko 1](./wk1/index.html)
 - [Viikko 2](./wk2/week2.md)
 
-Tulevat tehtävät:
+#### Tulevat tehtävät:
 - Viikko 3
 - Viikko 4
 - Viikko 5
@@ -21,5 +21,5 @@ Tulevat tehtävät:
 Sivu on luotu Jekyllillä.
 
 
-**Cloud Services in Web Development**
+**Cloud Services in Web Development**  
 *Website for course assignments*
