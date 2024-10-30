@@ -1,0 +1,10 @@
+title: Cloud Services in Web Development
+description: Front page for my university course
+remote_theme: jekyll-theme-minima
+
+header_pages:
+- index.md
+- ./wk2/vko2.md
+- ./wk3/vko3.md
+
+github_username: aapokiljunen
