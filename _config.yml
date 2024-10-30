@@ -1,6 +1,6 @@
 title: Pilvipalvelut web-kehityksessä
-description: Cloud Services in Web Development website for course assignments
-theme: jekyll-theme-cayman
+description: Pilvipalvelut web-kehityksessä
+theme: jekyll-theme-minima
 
 header_pages:
 - index.md
