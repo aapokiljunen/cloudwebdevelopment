@@ -10,9 +10,9 @@ layout: default
 - [Viikko 1](./wk1/index.html)
 - [Viikko 2](./wk2/week2.md)
 - [Viikko 3](./wk3/index.html)
+- [Viikko 4](./wk4/index.html)
 
 #### Tulevat tehtävät:
-- Viikko 4
 - Viikko 5
 - Viikko 6
 - Harjoitustyö
