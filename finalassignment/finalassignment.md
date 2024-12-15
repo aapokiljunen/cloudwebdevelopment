@@ -40,7 +40,7 @@ Toinen pullonkaula tulee Firebasen rajapinnasta, josta haetaan ennätystuloksia 
 Teknisesti sivusto pienistä puutteista huolimatta toimii varsin mukavasti suurimmalla osalla laitteista ja asetuksista ja tuollainen perusmallinen Material UI sopii pelin luonteeseen ihan mukavasti ja sitä myöten sivusto näyttääkin ihan kivalta (toki hiottavaakin olisi). Teknisesti ohjelma ei nyt oikeasti olisi tuotantokelpoinen (sen nojatessa käytännössä täysin Finnan palvelusta ladattaviin kuviin), mutta tällaiseksi koulutyöksi toimiva. Mikään ohjelmointikurssihan tämä ei ollut ja aika paljon sen myötä tuli chatgpt:tä hyödynnettyä koodauksen tukena.
 
 
-[Lopputyön sivut](https://aapokiljunen.github.io/helsinginkadut)
+[Lopputyön sivut](https://aapokiljunen.github.io/helsinginkadut)\ 
 [GitHub-sivut](https://github.com/aapokiljunen/helsinginkadut)
 
 
