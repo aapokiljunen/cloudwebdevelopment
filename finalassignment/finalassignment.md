@@ -19,16 +19,16 @@ React ja Material UI tuottavat mukavasti automaattisesti varsin responsiivista k
 
 Kännykällä peli toimii yllättävänkin mukavasti ja asettelussa alusta asti pidin vähän mielessäkin, että elementit asettuvat pystysuuntaisesti, jolloin kännykällä peli asettuu hyvin pelattavaksi.
 
-![pieni_läppäri](/pics/pieniff.png)
+![pieni_läppäri](/pics/pieniff.png)\
 *Oikein pienellä näytöllä jotkut elementit jäävät piiloon ylä- tai alareunasta* 
 
 ## Toimivuus uusimmilla selaimilla
 Tarkastin sivuston toiminnan Firefoxilla, Edgellä, Chromella sekä Firefoxin ja Chromen kännykkäversioilla. Kaikilla muilla selaimilla sivusto toimii moitteetta, mutta jostain syystä Chromen kännykkäselain sotkee yläpalkin halutessaan rivittää tekstin. Applea en nyt tähän hätään saanut käsiini.
 
-![android_firefox](pics/androidfire.jpg)
+![android_firefox](pics/androidfire.jpg)\
 *Firefoxilla peli toimii puhelimella erinomaisesti*
 
-![android_chrome](/pics/androidchrome.jpg)
+![android_chrome](/pics/androidchrome.jpg)\
 *Chrome sotkee jostain syystä yläreunan navigointivalikon rivittämällä tekstin*
 
 ## Latausajat
