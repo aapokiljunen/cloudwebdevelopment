@@ -12,11 +12,8 @@ layout: default
 - [Viikko 3](./wk3/index.html)
 - [Viikko 4](./wk4/index.html)
 - [Viikko 5](./wk5/index.html)
+- [Viikko 6](./wk6/index.html)
 - [Lopputehtävä](./finalassignment/finalassignment.md)
-
-#### Tulevat tehtävät:
-- Viikko 6
-
 
 
 Sivu on luotu Jekyllillä.
