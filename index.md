@@ -11,10 +11,10 @@ layout: default
 - [Viikko 2](./wk2/week2.md)
 - [Viikko 3](./wk3/index.html)
 - [Viikko 4](./wk4/index.html)
+- [Viikko 5](./wk5/index.html)
 - [Lopputehtävä](./finalassignment/finalassignment.md)
 
 #### Tulevat tehtävät:
-- Viikko 5
 - Viikko 6
 
 
